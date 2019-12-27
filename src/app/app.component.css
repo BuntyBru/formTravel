@@ -1,0 +1,89 @@
+.mainContainer
+{
+    display: flex;
+  justify-content: center;
+  padding-top: 25rem;
+}
+
+.card
+{
+   
+    width: 600px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 150px;
+    
+}
+
+
+
+.example-radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+  }
+  
+  .example-radio-button {
+    margin: 10px;
+  }
+
+
+  .example-h2 {
+    margin: 10px;
+  }
+  
+  .example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
+  .example-margin {
+    margin: 10px;
+  }
+  
+  .mat-slider-horizontal {
+    width: 300px;
+  }
+  
+  .mat-slider-vertical {
+    height: 300px;
+  }
+
+  .question
+  {
+      font-size: 24px;
+      font-weight: 600;
+  }
+
+  .answer
+  {
+      font-size: 18px;
+  }
+
+  .forwardIcon,  .backwardIcon
+  {
+      cursor: pointer;
+      padding-top: 100px;
+      font-size: 40px;
+  }
+
+  .forwardIcon
+  {
+      padding-left: 20px;
+  }
+
+  .backwardIcon
+  {
+      padding-right: 20px;
+  }
+
+  .submitBtn
+  {
+    position: absolute;
+    right: 33px;
+    font-size: 50px;
+    color: blue;
+    cursor: pointer;
+  }
